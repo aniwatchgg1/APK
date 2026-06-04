@@ -115,6 +115,6 @@
   "jest": {
     "preset": "jest-expo"
   },
-  "private": true,
+  "private": true
   
 }
